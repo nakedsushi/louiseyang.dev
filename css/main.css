@@ -397,6 +397,20 @@ li {
   margin-right: 0.5em;
 }
 
+.nope.center {
+  text-align: center;
+  font-size: 100pt;
+}
+
+.nope h1 {
+  text-align: center;
+  font-size: 60pt;
+}
+
+.warning-color {
+  color: #cb1640;
+}
+
 @media only screen and (max-width: 375px) {
   blockquote {
     margin-inline-start: 1em;
